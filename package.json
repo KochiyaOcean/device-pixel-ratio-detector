@@ -1,0 +1,22 @@
+{
+  "name": "device-pixel-ratio-detector",
+  "version": "0.0.1",
+  "description": "An EventEmitter to detect window.devicePixelRatio changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KochiyaOcean/device-pixel-ratio-detector.git"
+  },
+  "keywords": [
+    "devicePixelRatio"
+  ],
+  "author": "KochiyaOcean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KochiyaOcean/device-pixel-ratio-detector/issues"
+  },
+  "homepage": "https://github.com/KochiyaOcean/device-pixel-ratio-detector#readme"
+}
